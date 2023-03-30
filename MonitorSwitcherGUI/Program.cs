@@ -374,7 +374,7 @@ namespace MonitorSwitcherGUI
 
         public void OnMenuAbout(object sender, EventArgs e)
         { 
-            MessageBox.Show("Monitor Profile Switcher by Martin Krämer \n(MartinKraemer84@gmail.com)\nVersion 0.8.0.0\nCopyright 2013-2017 \n\nhttps://sourceforge.net/projects/monitorswitcher/", "About Monitor Profile Switcher", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Original Monitor Profile Switcher by Martin Krämer \n(MartinKraemer84@gmail.com)\n\nhttps://sourceforge.net/projects/monitorswitcher/\n\r Slight Modification by Nixx to Add DPI Save/Restore support", "About Monitor Profile Switcher", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         public void OnMenuDonate(object sender, EventArgs e)
